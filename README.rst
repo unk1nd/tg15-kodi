@@ -1,11 +1,13 @@
 The Gathering 2015 live streams
 ===============================
 
-These are playlist files for viewing The Gathering 2015: Future is Back
-on your XBMC/Kodi setup.
+These are (unofficial) playlist files for viewing 
+The Gathering 2015: Future is Back on your XBMC/Kodi setup.
+
+Known limitations::
+* webcam streams doesn't work, I guess .flvx needs some special love.
 
 Inspired by 31c3-kodi by jhol.
 
-Known limitations:
-* .flvx is not our friend?
+Tested on/with Kodi 14.2~git20150327.1058-final-0trusty.
 
